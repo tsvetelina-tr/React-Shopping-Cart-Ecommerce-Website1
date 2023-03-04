@@ -195,6 +195,7 @@ figure img {
 
 .splide {
   width: 100%;
+  min-height: 600px;
 }
 
 .splide__track {
